@@ -10,7 +10,7 @@ KID: NJpCsMLQco4=
 Issued At: 2021-06-21 13:42:00 UTC
 Signed By: CN=Italy DGC DSC 1,O=Ministero della Salute,C=IT (issued by: CN=Italy DGC CSCA 1,O=Ministero della Salute,C=IT)
 Expiration: 2023-05-12 00:00:00 UTC
-Personal Name: ALESSIA CASTELLARI
+Personal Name: 
 DOB: 1985-11-20
 ```
 
